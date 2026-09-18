@@ -57,8 +57,7 @@ Smart-Document-Scanner/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/<your-repository-name>.git
-cd Smart-Document-Scanner
+git clone https://github.com/srishtii-20/Smart-Document-Scanner.git
 ```
 
 ### Step 2: Create a Virtual Environment
